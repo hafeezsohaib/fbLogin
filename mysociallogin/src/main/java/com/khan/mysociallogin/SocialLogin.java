@@ -70,5 +70,6 @@ public class SocialLogin {
 
     public static void callBack(int requestCode, int resultCode, Intent data){ callbackManager.onActivityResult(requestCode,resultCode,data); }
 
-    public  interface FBListner { void callBackFaceBook(FaceBookUserInfo faceBookUserInfo);}
+    public  interface FBListner {
+        void callBackFaceBook(FaceBookUserInfo faceBookUserInfo);}
 }
