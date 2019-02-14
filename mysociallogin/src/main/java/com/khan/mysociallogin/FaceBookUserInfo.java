@@ -1,7 +1,6 @@
 package com.khan.mysociallogin;
 
 
-import com.facebook.CallbackManager;
 
 public class FaceBookUserInfo {
 
