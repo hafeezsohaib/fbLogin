@@ -1,6 +1,6 @@
 package com.khan.mysociallogin;
 
-import com.facebook.login.LoginManager;
+
 
 public class MyLogin {
 
