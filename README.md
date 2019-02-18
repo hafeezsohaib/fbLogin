@@ -36,7 +36,7 @@ allprojects {
   Activity implement SocialLogin.FBListner 
   
   in your Activity or fragment you have to override the 
-  callback method of above interface  in facebookUserInfo hvae all info about user name email bday etc.
+  callback method of above interface  in facebookUserInfo have all info about user name email bday etc.
   
   @Override
     public void callBackFaceBook(FaceBookUserInfo faceBookUserInfo) {
