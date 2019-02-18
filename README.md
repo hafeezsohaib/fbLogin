@@ -1,4 +1,8 @@
-# fbLogin
+# fbLogin, #SocialLogin,#FaceBookLogin
+its very fast Code it will take only 30 sec for login and get the user Information like Name ,email ,b'day etc
+ 
+ There is no need to add fb integration and fb login button in xml or activity 
+ two line of code for login and get the user Info.
  
  please add below path in your project level gradle file. 
   
