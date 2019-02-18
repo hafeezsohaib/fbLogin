@@ -40,6 +40,6 @@ allprojects {
   
   @Override
     public void callBackFaceBook(FaceBookUserInfo faceBookUserInfo) {
-      faceBookUserInfo=null;
+      
     }
   
