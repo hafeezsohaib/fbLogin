@@ -17,7 +17,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class SocialLogin {
-
+    private int code=0;
     private static CallbackManager callbackManager;
 
     public static  void loginFb(final Context context){
