@@ -17,7 +17,7 @@ allprojects {
 		}
 	}
   
-  Add   implementation 'com.github.hafeezsohaib:fbLogin:1.0.1'  it
+  Add   implementation 'com.github.hafeezsohaib:fbLogin:1.0.2'  it
   in app level gradle file.
   
   after sync the project 
